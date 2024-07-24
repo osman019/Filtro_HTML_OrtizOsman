@@ -48,7 +48,7 @@ top: 10vh;
     background-color: aliceblue;
     width: 12vw;
     height: 2.5vh;
-    border: 2px solid #16425B ;
+
     color: #16425B;
     
     
@@ -60,7 +60,7 @@ top: 10vh;
 .se1{
     color: #16425B;
     background-color: aliceblue;
-    border: 2px solid  #16425B;
+ 
     border-radius: 2vw;
     width: 75vw;
     height: 80vh;
@@ -68,4 +68,88 @@ top: 10vh;
     top: 0;
     left: 11.5vw;
     padding: 1vw;
+}
+.compra1{
+    border-radius: 1vw;
+}
+.item1{
+    width: 70vw;
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+.texto1{
+    left: 30vh;
+    position: absolute;
+    margin-top: -15vh;
+}
+.cantidad{
+    left: 55vh;
+    position: absolute;
+    margin-top: -15vh;
+}
+.precio{
+    left: 90vh;
+    position: absolute;
+    margin-top: -15vh;
+}
+.subtotal{
+    left: 55vw;
+    position: absolute;
+    margin-top: -15vh;
+}
+.eliminar{
+    left: 65vw;
+    position: absolute;
+    margin-top:  8vh;
+}
+.compra2{
+    top: 2;
+}.item2{
+    position: absolute;
+    top: 28vh;
+    width: 70vw;
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+.item3{
+    position: absolute;
+    top: 48vh;
+    width: 70vw;
+    border: 1px solid black;
+    border-radius: 1vw;
+}
+.vaciar{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 2vw;
+    position: absolute;
+    top: 23vh;
+    left: 3vw;
+}
+.vaciar:hover{
+    background-color:  burlywood;
+} 
+.llevar{
+    width: 30vw;
+    height: 10vh;
+    border: 2px solid;
+    border-radius: 2vh;
+    position: absolute;
+    top: 68vh;
+    left: 41vw;
+}
+.total{
+    padding: 1vh;
+
+}
+.ahora{
+    width: 10vw;
+    height: 5vh;
+    border-radius: 1vw;
+    position: absolute;
+    left: 15vw;
+    top: 2vh;
+}
+.ahora:hover{
+    background-color: burlywood;
 }

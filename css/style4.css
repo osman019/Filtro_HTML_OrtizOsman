@@ -35,12 +35,13 @@ left: 5vw;
   
 }
 .pantalones{
+    text-align: center;
     position: absolute;
     border-radius: 5px;
     background-color: aliceblue;
     width: 12vw;
     height: 2.5vh;
-    border: 2px solid #16425B ;
+
     color: #16425B;
     
    
@@ -56,7 +57,7 @@ left: 5vw;
 .se4{
     color: #16425B;
     background-color: aliceblue;
-    border: 2px solid  #16425B;
+
     border-radius: 2vw;
     width: 75vw;
     height: 80vh;
@@ -103,7 +104,7 @@ left: 5vw;
     position: absolute;
     width: 15vw;
     height: 8vh;
-    border: 2px solid  #16425B ;
+  
     border-radius: 0.5vw;
 }
 .agregar1{
@@ -117,7 +118,7 @@ left: 5vw;
     position: absolute;
     width: 15vw;
     height: 8vh;
-    border: 2px solid  #16425B ;
+  
     border-radius: 0.5vw;
 }
 .valor3{
@@ -126,7 +127,7 @@ left: 5vw;
     position: absolute;
     width: 15vw;
     height: 8vh;
-    border: 2px solid  #16425B ;
+
     border-radius: 0.5vw;
 }
 .valor4{
@@ -135,7 +136,7 @@ left: 5vw;
     position: absolute;
     width: 15vw;
     height: 8vh;
-    border: 2px solid  #16425B ;
+  
     border-radius: 0.5vw;
 }
 .abrigo5{
@@ -154,6 +155,6 @@ left: 5vw;
     position: absolute;
     width: 15vw;
     height: 8vh;
-    border: 2px solid  #16425B ;
+   
     border-radius: 0.5vw;
 }
